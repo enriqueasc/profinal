@@ -13,7 +13,7 @@ export default function Home() {
                 <li className="flex items-center">
                   <p className="ml-4">
                     Customizing your
-                    <code className="text-sm font-bold text-gray-900">tailwind.config.js</code> file
+                    <code className="text-sm font-bold text-gray-900"> config tailwind.config.js</code> file
                   </p>
                 </li>
                 <li className="flex items-center">
